@@ -1,5 +1,4 @@
 Function
-shout(string); {
-  return 
- string.toUpperCase()
+shout(string); { return
+   string.toUpperCase()
 }
